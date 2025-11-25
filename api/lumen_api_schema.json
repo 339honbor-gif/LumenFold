@@ -1,0 +1,44 @@
+---
+
+## ⚙️ Intended Applications
+
+### 1. **Multi-Agent Coordination**  
+Provides a stable semantic layer for agents to:
+- share intent  
+- avoid drift  
+- negotiate meaning  
+
+### 2. **Human ↔ AI Meaning Alignment**  
+For command systems (FSD, robotics, agents):
+- prevents ambiguity before task execution  
+- stabilizes “intention → action” mapping  
+
+### 3. **C3 Communication Layer**  
+LFP-0 supports *post-subjective communication*, meaning:
+- language without heavy personal bias  
+- cross-civilizational clarity  
+- transparent meaning flow  
+
+---
+
+## 📘 Version
+
+Current version: **LFP-0.1**  
+Future versions: LFP-0.2 / 0.3 will extend:
+- multi-agent API  
+- clarity membranes  
+- alignment specification  
+
+---
+
+## 👤 Author
+
+**Hon Bor So**  
+Independent Researcher  
+Author of Transparent Boundary Theory (TPT)
+
+---
+
+## 📄 License
+
+MIT License (default GitHub open-source license)
