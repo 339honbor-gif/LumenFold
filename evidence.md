@@ -30,7 +30,7 @@ It is not marketing; it is an evidence log.
 - **Title:** The Irreducible Core of LFP-0: Why Six Fields Plus H Exhaust the Question of Responsibility  
 - **Type:** Technical note  
 - **Repository:** Zenodo  
-- **DOI:** `10.5281/zenodo.XXXXXXX`  <!-- replace with actual DOI -->  
+- **DOI:** 10.5281/zenodo.17710799
 - **Upload date:** 2025-12-09  
 
 **Scope**
@@ -43,6 +43,27 @@ It is not marketing; it is an evidence log.
   reconstruct these six dimensions plus a single ambiguity axis.
 - Positions LFP-0 as a thin, implementation-agnostic backbone
   rather than a full product standard.
+
+### 1.3 H-score computation gist (MIT-licensed)
+
+- **Title:** LFP-0 H-score computation sketch (MIT-licensed, for Grok/xAI trials)
+- **Type:** GitHub Gist (code sketch)
+- **Repository:** GitHub Gist
+- **URL:** https://gist.github.com/339honbor-gif/a38c3717f3310f22ef3fc4aa89933296  
+
+**Scope**
+
+- Provides a minimal Python sketch for computing the ambiguity score H over an action–probability distribution.
+- Licensed under the MIT License to allow internal adaptation and experimentation by frontier-lab teams.
+- Serves as a reference implementation for the conceptual definition of H in LFP-0.
+
+Together, the following three artefacts form the initial field evidence around LFP-0:
+
+1. A Phase-A executive summary on Zenodo (v0.1), which defines the protocol, reports initial toy simulations, and records overhead measurements for FSD-like settings.  
+2. A technical note on Zenodo (v1.0), which gives the formal argument that the 6-field + H structure is minimal and complete for responsibility at the human–AI decision boundary.  
+3. An MIT-licensed H-score computation gist, which provides a minimal, inspectable reference implementation of the ambiguity score H over action–probability distributions and can be adapted by external teams.
+
+These artefacts are not presented as impact claims, but as a reproducible field snapshot that shows LFP-0 is both conceptually legible and technically actionable to independent frontier-lab teams.
 
 ---
 
