@@ -30,12 +30,16 @@ This creates a *clarity membrane* between:
 
 ---
 
-## 🔍 What LumenFold is **not**
+## 💬 What LumenFold is **not**
 
-- ❌ Not a neural network  
-- ❌ Not a training dataset  
-- ❌ Not a replacement for LLMs  
-- ❌ Not a philosophical thesis  
+💬 **Field evidence.**  
+For Zenodo releases and frontier-lab interactions around LFP-0,  
+see the [LumenFold evidence log](./evidence.md).
+
+❌ Not a neural network  
+❌ Not a training dataset  
+❌ Not a replacement for LLMs  
+❌ Not a philosophical thesis
 
 LFP-0 is a **semantic-protocol**, similar to:
 - Internet protocols → HTTP  
